@@ -1,0 +1,16 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Briza API Client Endpoint",
+    "owner": "Rakesh",
+    "description": "Data flow diagram and threat modelling for API-clients resource, used for generating new API clients.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Rakesh",
+    "threatTop": 0
+  }
+}
