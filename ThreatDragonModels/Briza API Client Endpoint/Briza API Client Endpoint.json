@@ -3,7 +3,7 @@
   "summary": {
     "title": "Briza API Client Endpoint",
     "owner": "Rakesh",
-    "description": "Data flow diagram and threat modelling for API-clients resource, used for generating new API clients.\n- The API keys are generated and provided by the product team which is a risk",
+    "description": "Data flow diagram and threat modelling for API-clients resource, used for generating new API clients.\n- The API keys are generated and provided by the product team which is a Insecure design (Design flaw that cannot be fixed by implementation)",
     "id": 0
   },
   "detail": {
